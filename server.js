@@ -12,4 +12,4 @@ async function main() {
     console.log(transcription.text);
 }
 main();
-conflict, delete this
+i refuse, i want this change
