@@ -12,4 +12,4 @@ async function main() {
     console.log(transcription.text);
 }
 main();
-
+a change
