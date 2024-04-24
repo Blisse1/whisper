@@ -12,4 +12,3 @@ async function main() {
     console.log(transcription.text);
 }
 main();
-i refuse, i want this change
