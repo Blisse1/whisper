@@ -12,5 +12,4 @@ async function main() {
     console.log(transcription.text);
 }
 main();
-
-no quiero que esto esté
+asd
