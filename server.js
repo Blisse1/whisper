@@ -9,5 +9,3 @@ async function main() {
     });
 }
 main();
-asd
-un cambio que quiero revisar y que no tengo en local
